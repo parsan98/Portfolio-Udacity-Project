@@ -1,0 +1,42 @@
+/* This is for display on viewports larger than (min width) of 800px */
+
+/* Header */
+.icon {
+  margin-left: 50px;
+}
+.port-text {
+  padding-right: 100px;
+}
+
+/* increasing general layout padding */
+section {
+  padding: 10px;
+  font-size: 18px;
+}
+
+
+/* Display of contents of article */
+@media screen and (min-width: 900px){
+  .title-Feature{
+    width: 400px;
+    height: 250px;
+  }
+}
+@media screen and (min-width: 900px) and (max-width:1200px){
+  .diet {
+    display: block;
+  }
+  .title-Img-Div {
+    float: left;
+  }
+  .descriptions-Div {
+    margin-left: 400px;
+    display: block;
+  }
+}
+
+/* Images section */
+.pics {
+  width: 9%;
+  padding: 0px;
+}
