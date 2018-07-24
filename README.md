@@ -1,5 +1,5 @@
 # Santhosh: A portfolio
-This is a web site displaying my portfolio designed to be responsive.
+This is a web site displaying a basic sample portfolio designed to be responsive.
 
 ### Getting started
 This repository contains the CSS and HTML files in their respective folders along with a separate folders for the images used.
