@@ -5,7 +5,7 @@ This is a web site displaying a basic sample portfolio designed to be responsive
 This repository contains the CSS and HTML files in their respective folders along with a separate folders for the images used.
 
 Download and unzip contents.
-Open _portfolio.html_ from the html folder.
+Open _index.html_ from the html folder.
 
 ## Features
 * Contains a main stylesheet and two additional style sheets requested according to the viewport size.
