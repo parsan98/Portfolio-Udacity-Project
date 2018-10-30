@@ -1,5 +1,5 @@
 # Santhosh: A portfolio
-Live page: https://parsan98.github.io/Portfolio-Udacity-Project/
+Live page: https://parvathy-santhosh.github.io/Portfolio-Udacity-Project/
 
 This is a web site displaying a basic sample portfolio designed to be responsive.
 
